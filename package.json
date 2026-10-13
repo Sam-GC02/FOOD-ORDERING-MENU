@@ -1,0 +1,13 @@
+{
+  "name": "foodflow-prototype",
+  "version": "1.0.0",
+  "description": "Integrated Food Ordering, Kitchen Queue, and Delivery Tracking System (prototype)",
+  "main": "server.js",
+  "scripts": {
+    "seed": "node seed.js",
+    "start": "node server.js",
+    "test": "node test.js",
+    "backup": "node backup.js"
+  },
+  "dependencies": { "bcryptjs": "^2.4.3", "express": "^4.19.2" }
+}

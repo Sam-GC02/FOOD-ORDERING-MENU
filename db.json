@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "U-1",
+      "username": "admin",
+      "name": "Ana Admin",
+      "role": "admin",
+      "phone": "0917-000-0001",
+      "passwordHash": "$2a$08$ngqWseadp.uxMcNKLhwWuuBivHyzhzJOqVkY7kbv0oYTDp7DimUuK"
+    },
+    {
+      "id": "U-2",
+      "username": "kitchen1",
+      "name": "Kito Cook",
+      "role": "kitchen",
+      "phone": "0917-000-0002",
+      "passwordHash": "$2a$08$SWmVDUqJO7hZYee7ExGr5uGWbRunBIZRK5HxUDEST3v4XA382t2A6"
+    },
+    {
+      "id": "U-3",
+      "username": "rider1",
+      "name": "Rico Rider",
+      "role": "rider",
+      "phone": "0917-000-0003",
+      "passwordHash": "$2a$08$3EyGv16MoZM6a8nrD5DLAOj9oI/UDuFVzukXY3rtFnXc.5x.n49We"
+    },
+    {
+      "id": "U-4",
+      "username": "rider2",
+      "name": "Rina Rider",
+      "role": "rider",
+      "phone": "0917-000-0004",
+      "passwordHash": "$2a$08$2BJrn9cm6qGR/gshQk09oOA0HW6fUz7poLx8eDflF581mTxotRtmG"
+    },
+    {
+      "id": "U-5",
+      "username": "customer1",
+      "name": "Carlo Customer",
+      "role": "customer",
+      "phone": "0917-000-0005",
+      "passwordHash": "$2a$08$BNoMz9maR13.oG9hqJM69enitl6PhPT1R6yC7SHQYneCpg.QXIBnG"
+    },
+    {
+      "id": "U-6",
+      "username": "customer2",
+      "name": "Cathy Customer",
+      "role": "customer",
+      "phone": "",
+      "passwordHash": "$2a$08$Xo7hd0XAhXd/CHBosHBVXuUkQ1RpAblQAgbodAGhkP96WnBhgJ4Fa"
+    }
+  ],
+  "menu": [
+    {
+      "id": "M-1",
+      "name": "Chicken Adobo Rice",
+      "price": 120,
+      "available": true
+    },
+    {
+      "id": "M-2",
+      "name": "Pork Sinigang",
+      "price": 150,
+      "available": true
+    },
+    {
+      "id": "M-3",
+      "name": "Beef Tapa Silog",
+      "price": 135,
+      "available": true
+    },
+    {
+      "id": "M-4",
+      "name": "Pancit Canton",
+      "price": 95,
+      "available": true
+    },
+    {
+      "id": "M-5",
+      "name": "Halo-Halo",
+      "price": 85,
+      "available": true
+    },
+    {
+      "id": "M-6",
+      "name": "Iced Tea",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "orders": [],
+  "notifications": [],
+  "auditLogs": [],
+  "integrationLogs": []
+}
